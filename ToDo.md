@@ -1,0 +1,1 @@
+What happends when MCP server fails?

@@ -9,6 +9,9 @@ __pycache__/
 dist/
 build/
 
+# Metrics data
+data/
+
 # IDE
 .vscode/
 .idea/
